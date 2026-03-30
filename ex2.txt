@@ -1,1 +1,1 @@
-hi
+hi this is ex2.txt
